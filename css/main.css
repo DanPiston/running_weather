@@ -1,0 +1,12 @@
+/** {
+    border: 1px solid red !important;
+}*/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.clothing-img {
+    max-width: 100px;
+    height: auto;
+}
